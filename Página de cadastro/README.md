@@ -1,0 +1,1 @@
+Projeto em que realizei uma página de cadastro responsiva, apenas com HTML5 e CSS3, inspirado no video da Giovanna do canal: Girl Coding.
